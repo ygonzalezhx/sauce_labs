@@ -3,9 +3,9 @@
 
 ## Overview
 
-This repository contains the end-to-end quality assurance (QA) documentation and testing strategy for the Sauce Labs application. 
+This repository contains the end-to-end quality assurance (QA) documentation and testing strategy for the [Sauce Labs application](https://www.saucedemo.com/). 
 
-The project covers the entire QA lifecycle: requirements analysis, test case documentation, execution and automation of assertions in Postman, and defect management.
+The project covers the entire QA lifecycle: requirements analysis, test case documentation, execution and automation of assertions in Playwright, and defect management.
 
 ---
 ## Scope of the project
@@ -31,10 +31,10 @@ The project covers the entire QA lifecycle: requirements analysis, test case doc
 
 | File/Artifact|      Description|      Status|
 |-------------:|----------------:|-----------:|
-|QA Strategy-md|High level roadmap of the testing strategy for the Sauce labs Project|✓|
-|Test Plan-Sauce Labs Project.pdf|High level test plan of Sauce Labs projects, where are defined the goals, document references, scope, test types, test environments and test tools to be used, entry and exit criteria and deliverables                |         ✓        |
-|Epics-US-TC - Sauce Labs project.xlsx|Identified features to be tested and their acceptance criteria. Test cases mapped to the user stories |✓|
-|Test execution - Sauce Labs project.xlsx|Test case execution outcome for web, tablet and mobiel viewports|✓|
+|QA Strategy |High level roadmap of the testing strategy for the Sauce labs Project|✓|
+|Test Plan - Sauce Labs Project|High level test plan of Sauce Labs projects, where are defined the goals, document references, scope, test types, test environments and test tools to be used, entry and exit criteria and deliverables                |         ✓        |
+|Epics-US-TC - Sauce Labs project|Identified features to be tested and their acceptance criteria. Test cases mapped to the user stories |✓|
+|Test execution - Sauce Labs project|Test case execution outcome for web, tablet and mobile viewports|✓|
 |Test execution mobile- Sauce Labs project |Test case execution outcome for mobile app||
-|Bug report - Sauce Labs project.xlsx|Bug report. Repro steps and evidence|✓|
+|Bug report - Sauce Labs project|Bug report. Repro steps and evidence|✓|
 |playwright-ts-saucelabs|automation framework for Sauce Labs project|                 |
