@@ -1,0 +1,16 @@
+{
+  "name": "playwright-ts-saucelabs",
+  "version": "1.0.0",
+  "description": "This repository contains the end-to-end (E2E) automation testing project designed for the Sauce Labs application, developed with **Playwright & Typescript**. The framework follows the Page Object Model (POM) design pattern and includes reusable test utilities, fixtures, and reporting.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.1",
+    "typescript": "5.9"
+  }
+}
